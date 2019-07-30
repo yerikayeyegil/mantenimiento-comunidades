@@ -1,4 +1,4 @@
 # mantenimiento-comunidades
-boostrap html css
+Full front end site made with Boostrap HTML and CSS
 <br>
 <a href="https://yerikagilprojects1.netlify.com">View online</a>
